@@ -8,7 +8,9 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
 
-# Hacer un tres en 
+# Hacer un tres en raya | Juego del Gato
+
+Funcionalidades
 - Manejo de estados
 - logica de programacion
 - Renderizado condicional
