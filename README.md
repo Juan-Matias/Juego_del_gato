@@ -18,6 +18,6 @@ Funcionalidades
 - Eventos
 - Guardar en el LocalStorage
 
-Time video :48:55
 
-link video :https://www.youtube.com/watch?v=qkzcjwnueLA
+link video :https://youtu.be/qkzcjwnueLA?t=2940
+Time video :48:55
