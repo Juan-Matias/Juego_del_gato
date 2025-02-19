@@ -8,16 +8,29 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
 
-# Hacer un tres en raya | Juego del Gato
+# Hacer un Tres en Raya | Juego del Gato
 
-Funcionalidades
-- Manejo de estados
-- logica de programacion
-- Renderizado condicional
-- Renderizado de listas
-- Eventos
-- Guardar en el LocalStorage
+**Descripción:**  
+Crea un videojuego interactivo del Tres en Raya (Juego del Gato) y una aplicación para aprender y aplicar `useState` en React.
+
+## Funcionalidades:
+- **Manejo de estados**: Utiliza el hook `useState` para gestionar los estados del juego.
+- **Lógica de programación**: Implementa la lógica para determinar los turnos, las victorias y los empates.
+- **Renderizado condicional**: Muestra el ganador, los turnos y las acciones disponibles en función del estado del juego.
+- **Renderizado de listas**: Utiliza el renderizado de listas para representar el tablero de juego.
+- **Eventos**: Maneja los eventos de clic para actualizar el tablero y los turnos.
+- **Almacenamiento en LocalStorage**: Guarda el estado del juego en `localStorage` para persistencia entre sesiones.
+
+# Tablero de Tres en Raya
+
+|   |   |   |
+|---|---|---|
+| X | O | X |
+| O | X | O |
+| X | O | X |
 
 
-link video :https://youtu.be/qkzcjwnueLA?t=2940
-Time video :48:55
+
+## Enlace al video
+[Ver video tutorial](https://youtu.be/qkzcjwnueLA?t=4142)
+
